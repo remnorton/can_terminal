@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>res/message-new.png</file>
+        <file>res/edit-clear.png</file>
+        <file>res/dialog-information.png</file>
+        <file>res/message_add.png</file>
+        <file alias="SEND">res/mail-send.png</file>
+        <file>res/send_all.png</file>
+        <file>res/document-open.png</file>
+        <file>res/document-save.png</file>
+        <file>res/connect.png</file>
+        <file>res/view-refresh.png</file>
+        <file>res/iconfinder_Play.png</file>
+        <file>res/message-delete.png</file>
+    </qresource>
+</RCC>
