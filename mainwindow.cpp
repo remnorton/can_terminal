@@ -415,7 +415,7 @@ void MainWindow::on_btSendAll_clicked()
     for(int i = 0; i < txModel.rowCount(); i++)
     {
         if (txModel.item(i)->data().toBool())
-            sendData(txModel.item(i, 1)->data().toByteArray(), (i+1) == txModel.rowCount());
+            sendData(txModel.item(i, 1)->data().toByteArray());
     }
 }
 
